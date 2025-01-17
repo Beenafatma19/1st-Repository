@@ -20,7 +20,7 @@ public class Week2 {
         // show commit
        // we're making changes
        //we made new branch
-       
+       // see the merge revision
     }
     
 }
